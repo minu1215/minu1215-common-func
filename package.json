@@ -1,0 +1,26 @@
+{
+  "name": "minu1215-common-func",
+  "version": "0.1.0",
+  "description": "common func",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minu1215/minu1215-common-func.git"
+  },
+  "keywords": [
+    "common",
+    "js",
+    "function",
+    "export",
+    "module"
+  ],
+  "author": "minu1215",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minu1215/minu1215-common-func/issues"
+  },
+  "homepage": "https://github.com/minu1215/minu1215-common-func#readme"
+}
